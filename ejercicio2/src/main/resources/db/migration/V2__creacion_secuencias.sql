@@ -1,0 +1,3 @@
+CREATE SEQUENCE ejercicio_2.duenio_seq START WITH 1 INCREMENT BY 1;
+
+CREATE SEQUENCE ejercicio_2.mascota_seq START WITH 1 INCREMENT BY 1;

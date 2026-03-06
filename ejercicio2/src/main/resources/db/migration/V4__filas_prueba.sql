@@ -1,0 +1,1 @@
+INSERT INTO ejercicio_2.duenio VALUES (1,'1234','Marcos','Cornejos','43642126');
